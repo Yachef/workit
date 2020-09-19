@@ -2,4 +2,4 @@
 test backend
 
 Important notes :
-Input txt file must be inside src/main/resources file
+Input text file must be inside src/main/resources folder
